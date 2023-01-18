@@ -42,7 +42,8 @@ Frontend
 <h3>💥 What i interested in today </h3>
 
 ```
-- Clean Årchitecture - Dependency Management
+- Clean Årchitecture & BDD
+- Dependency Management
 ```
 
 <h2><i>Happy Coding!</i> 😊</h2>
